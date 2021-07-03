@@ -34,7 +34,7 @@ Just enter the github id of the user and compare the profiles.
 
 4. androidx
 
-# ScreenShots
+# ScreenShots:
 ## Dark
 <img src="https://github.com/thinktocode/GitFit/blob/master/ScreenShots/dark_splash.png" alt="drawing" width="200"/>  <img src="https://github.com/thinktocode/GitFit/blob/master/ScreenShots/dark_user.png"  alt="drawing" width="200"/>
 <img src="https://github.com/thinktocode/GitFit/blob/master/ScreenShots/dark_user1.png" alt="drawing" width="200"/>
